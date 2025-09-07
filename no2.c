@@ -1,3 +1,4 @@
+// Menghitung penjumlahan 1024 + 4096 dan mencetak hasilnya
 #include <stdio.h>
 #include <stdlib.h>
 

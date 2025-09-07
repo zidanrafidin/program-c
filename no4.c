@@ -1,3 +1,5 @@
+// Mengisi nilai sebuah variabel float, mengalikan isi variabel tersebut dengan 50 dan
+// mencetak hasilnya
 #include <stdio.h>
 
 int main() {
